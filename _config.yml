@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # use blank base URL for local host testing
 # baseurl: ""
 # use digital-fabrication for github pages
-baseurl: "digital-fabrication" 
+baseurl: "Digital-Fabrication" 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  nantig
