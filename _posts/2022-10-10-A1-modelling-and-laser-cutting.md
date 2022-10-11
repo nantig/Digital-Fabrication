@@ -8,7 +8,7 @@ categories: Assignments
 ## Press Fit Objects
 I might have had too much fun with the laser cutter for my press-fit cardboard project. I made a collection of objects using a triangle with three connection points and three different types of connectors with various angles. The angle of the connector determines the geometric form that is created. Triangles have an endless amount of exciting possibilities!  
 
-![Collection of laser cut press fit cardboard shapes](/Digital-Fabrication/assets/images/A1-01.jpeg)
+![Collection of laser cut press fit cardboard shapes](/assets/images/A1-01.jpeg)
 
 ![Small gemometric shape](/assets/images/A1-02.jpeg)
 
