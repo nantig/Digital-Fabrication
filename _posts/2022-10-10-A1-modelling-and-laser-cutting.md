@@ -14,7 +14,7 @@ I might have had too much fun with the laser cutter for my press-fit cardboard p
 
 ![Medium gemometric shape](/assets/images/A1-03.jpeg)
 
-![Flat press fit form](/assets/images/A1-04.jpeg)
+![Flat press fit form](/assets/images/A1-04.jpg)
 
 ![Collection of all press fit cardboard shapes](/assets/images/A1-07.jpeg)
 
