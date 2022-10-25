@@ -65,3 +65,7 @@ Thanks to Paramarch for [this youtube video](https://www.youtube.com/watch?v=QMI
 
 And Thanks to Akshay who offered to laser cut my pieces since I was sick. I ended up being able to make it to The 8 and get my pieces cut, but it was such a relief knowing that I could rely on someone for help if I needed it! 
 
+[Download the Rhino File](/Digital-Fabrication/assets/files/A2.3dm)
+
+[Download the Grasshopper File](/Digital-Fabrication/assets/files/A2.gh)
+
