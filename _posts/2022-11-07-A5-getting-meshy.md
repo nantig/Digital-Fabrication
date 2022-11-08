@@ -46,7 +46,7 @@ The lattice mesh was actually 52 seperate meshes overlapping each other. Having 
 
 The squggles vase was surprisingly well made for its complexity. It was a single closed mesh that had a good mesh report. This made working with it easier. 
 
-The Droplet vase seemed like it was a good mesh. It also was a single closed mesh with a good mesh report in rhino. However, only at the end of my process did I check the vase in Cura and find that it it actually has an issue at its base. 
+The Droplet vase seemed like it was a good mesh. It also was a single closed mesh with a good mesh report in rhino. However, only at the end of my process did I check the vase in Cura and find that it it actually has an issue at its base. This issue is present in all of my models that use the base of the droplet vase. 
 
 ![Cura screenshot of mesh error](/Digital-Fabrication/assets/images/A5-9.png)
 
