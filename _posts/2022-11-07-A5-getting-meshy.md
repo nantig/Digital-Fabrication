@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A5: Getting Meshy"
+title:  "A5 pt. 1: Getting Meshy"
 date:   2022-11-7 8:53:52 -0700
 categories: Assignments
 ---
