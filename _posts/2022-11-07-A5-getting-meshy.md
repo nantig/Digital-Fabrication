@@ -88,6 +88,6 @@ These are "a good mesh" and a "closed mesh" according to Rhino, but prompt a mod
 
 ## Lamps! 
 
-This week also included getting a start on our lamps. Find that work on the [lamps page](https://nantig.github.io/Digital-Fabrication//assignments/2022/11/07/A5-lamps.html).
+This week also included getting a start on our lamps. Find that work on the [lamps page](https://nantig.github.io/Digital-Fabrication/assignments/2022/11/07/A5-lamps.html).
 
 
