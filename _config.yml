@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a place for me to showcase projects and process I'm working on in HCDE 533, a class on Digital Fabrication.
 
 # use blank base URL for local host testing
-# baseurl: ""
+baseurl: ""
 
 # use digital-fabrication for github pages
-baseurl: "Digital-Fabrication" 
+# baseurl: "Digital-Fabrication" 
 
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
