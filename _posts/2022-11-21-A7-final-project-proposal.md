@@ -29,7 +29,7 @@ Image from [this article on Making Tambours](https://www.woodmagazine.com/woodwo
 
 **Living Hinges**
 
-
+![tambor doors](/Digital-Fabrication/assets/images/A7-9.jpeg)
 
 #### Methods
 
