@@ -112,5 +112,7 @@ I have a couple block printing sets that I bought from a company called Block Sh
 
 I designed this as a two-part project because casting candles is a lot of up-front work with the mold making, but is fairly passive when actually casting the wax. I figured that two smaller projects would be a fun way for me to explore more of the methods we learned throughout the quarter! 
 
+![Contingency timeline](/Digital-Fabrication/assets/images/A7-7.png)
+
 
 
