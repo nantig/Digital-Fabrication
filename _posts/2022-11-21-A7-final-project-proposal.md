@@ -13,11 +13,11 @@ In looking back on all the things I've digitally fabricated this quarter, I foun
 
 For my final project I'd like to design a record cabinet with a sliding door that uses living hinges. 
 
-![rough concept sketch](/assets/images/A7-1.jpeg)
+![rough concept sketch](/Digital-Fabrication/assets/images/A7-1.jpeg)
 
 My poor records would really like to get off the cold concrete floor. This project would give my records a home and give me an opportunity to play with living hinges and usign digital fabrication techniques on a larger scale project. 
 
-![records on a floor](/assets/images/A7-2.jpeg)
+![records on a floor](/Digital-Fabrication/assets/images/A7-2.jpeg)
 
 #### Methods
 
@@ -30,13 +30,13 @@ My poor records would really like to get off the cold concrete floor. This proje
 
 I conceptualized this project to utalize a tool I've been iitching to buy for a while, a Shaper Origin! The catch is that I dont have one yet...
 
-![shaper origin](/assets/images/A7-4.png)
+![shaper origin](/Digital-Fabrication/assets/images/A7-4.png)
 
  The new version of the Origin was only released at the end of October and retailers won't be receiving stock until early December. I placed an order for a Shaper Origin at my local woodshop, but no one has been able to give me a concrete estimate on when it will arrive. I was told that drop orders should arrive sooner than store stock, so there is a slight chance I will be able to get it in time for this project. My record cabinet project will definitely happen, it just might not happen as the final for this class. 
 
 #### Timeline
 
-
+![Timeline](/Digital-Fabrication/assets/images/A7-5.png)
 
 #### Bill of Materials
 
@@ -82,5 +82,13 @@ I conceptualized this project to utalize a tool I've been iitching to buy for a 
 
 ### & maybe some Block Printing
 
+#### Methods
 
+#### Bill of Materials
 
+| Material      | Description | Status |
+| ----------- | ----------- | ----------- |
+| Misc. scrap wood | For creating wooden blocks | ✅ |
+| Printing ink | For printing with wooden blocks. (May purchase more, but that can be done locally from any art supply store) | ✅ ⚠️ |
+| Paper | For printing on. | ✅ |
+| Fabric (tbd) | For pringing on, if I decide I want to do some fabric prints, like tote bags or bandanas | ❌ |
