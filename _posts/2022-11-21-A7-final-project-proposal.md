@@ -65,7 +65,7 @@ I had a lot of fun making candles for the casting and mold making assignment. Th
 
 Here's the first parametric candle 3D printed part. I plan to make a collection of 3 designs for this project. 
 
-![3d printed candle mold](/assets/images/A7-3.jpeg)
+![3d printed candle mold](/Digital-Fabrication/assets/images/A7-3.jpeg)
 
 #### Methods
 
@@ -90,7 +90,7 @@ Here's the first parametric candle 3D printed part. I plan to make a collection 
 
 I have a couple block printing sets that I bought from a company called Block Shop Textiles. I really love these kits and I've used them for making custom wrapping paper and cards. I noticed that all the blocks are laser cut and laser etched. I want to exapnd on my collection of blocks by making larger laser cut shapes and using milling instead of laser etching for the more detailed pattern blocks. This is also a good way for me to use up some scrap wood that I've had lying around for a while! 
 
-![printing blocks](/assets/images/A7-6.jpeg)
+![printing blocks](/Digital-Fabrication/assets/images/A7-6.jpeg)
 
 #### Methods
 
