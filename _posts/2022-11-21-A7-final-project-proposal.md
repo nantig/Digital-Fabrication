@@ -19,6 +19,18 @@ My poor records would really like to get off the cold concrete floor. This proje
 
 ![records on a floor](/Digital-Fabrication/assets/images/A7-2.jpeg)
 
+#### Inspiration
+
+**Tambour Doors**
+
+![tambor doors](/Digital-Fabrication/assets/images/A7-8.jpeg)
+
+Image from [this article on Making Tambours](https://www.woodmagazine.com/woodworking-how-to/doors-drawers/making-tambours).
+
+**Living Hinges**
+
+
+
 #### Methods
 
 1. Rhino - for modeling the cabinet parts 
