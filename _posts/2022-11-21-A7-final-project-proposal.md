@@ -31,12 +31,15 @@ My poor records would really like to get off the cold concrete floor. This proje
 I conceptualized this project to utalize a tool I've been iitching to buy for a while, a Shaper Origin! The catch is that I dont have one yet...
 
 ![shaper origin](/Digital-Fabrication/assets/images/A7-4.png)
+*image courtesy of the shaper origin website*
 
  The new version of the Origin was only released at the end of October and retailers won't be receiving stock until early December. I placed an order for a Shaper Origin at my local woodshop, but no one has been able to give me a concrete estimate on when it will arrive. I was told that drop orders should arrive sooner than store stock, so there is a slight chance I will be able to get it in time for this project. My record cabinet project will definitely happen, it just might not happen as the final for this class. 
 
 #### Timeline
 
 ![Timeline](/Digital-Fabrication/assets/images/A7-5.png)
+
+*note: I know that I could probably complete the same project using the CNC mill at The8. However, given that many of the machines have had operation issues throughout the quareter, I am hesitant to rely so much on a machine when there is only one available. Instead, I created a proposal for a contingency project (details below)*
 
 #### Bill of Materials
 
@@ -52,13 +55,17 @@ I conceptualized this project to utalize a tool I've been iitching to buy for a 
 <!-- | Name | Description | ✅ ❌ ⚠️ | -->
 
 
-
-
 ## Contingency Plans
 
-
+Since there is a pretty good chance that I won't be able to make the record cabinet, I have a contingency project that I will work on concurrently until I get more info on when my Shaper Origin should arrive. The contingency plan project are two smaller projects that I wanted to do anyway! 
 
 ### Plan B: Parametric Candles 
+
+I had a lot of fun making candles for the casting and mold making assignment. Through that, I learned that there is so much to explore in the candle making space, and I'd like to do just that. I also think that they would make fun gifts for friends and family. 
+
+Here's the first parametric candle 3D printed part. I plan to make a collection of 3 designs for this project. 
+
+![3d printed candle mold](/assets/images/A7-3.jpeg)
 
 #### Methods
 
@@ -79,10 +86,18 @@ I conceptualized this project to utalize a tool I've been iitching to buy for a 
 | Wax dye chips | For coloring candles | ✅ |
 
 
-
 ### & maybe some Block Printing
 
+I have a couple block printing sets that I bought from a company called Block Shop Textiles. I really love these kits and I've used them for making custom wrapping paper and cards. I noticed that all the blocks are laser cut and laser etched. I want to exapnd on my collection of blocks by making larger laser cut shapes and using milling instead of laser etching for the more detailed pattern blocks. This is also a good way for me to use up some scrap wood that I've had lying around for a while! 
+
+![printing blocks](/assets/images/A7-6.jpeg)
+
 #### Methods
+
+1. Grasshopper - modeling and manipulating parts quickly 
+2. Rhino - modeling 
+3. Laser cutting - for making simple block prints
+4. Subtractive manufacturing with the othermill - for making more complicated patterned blocks
 
 #### Bill of Materials
 
@@ -92,3 +107,10 @@ I conceptualized this project to utalize a tool I've been iitching to buy for a 
 | Printing ink | For printing with wooden blocks. (May purchase more, but that can be done locally from any art supply store) | ✅ ⚠️ |
 | Paper | For printing on. | ✅ |
 | Fabric (tbd) | For pringing on, if I decide I want to do some fabric prints, like tote bags or bandanas | ❌ |
+
+#### Timeline
+
+I designed this as a two-part project because casting candles is a lot of up-front work with the mold making, but is fairly passive when actually casting the wax. I figured that two smaller projects would be a fun way for me to explore more of the methods we learned throughout the quarter! 
+
+
+
