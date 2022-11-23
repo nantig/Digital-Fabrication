@@ -29,7 +29,9 @@ Image from [this article on Making Tambours](https://www.woodmagazine.com/woodwo
 
 **Living Hinges**
 
-![tambor doors](/Digital-Fabrication/assets/images/A7-9.jpeg)
+![living hinges](/Digital-Fabrication/assets/images/A7-9.jpeg)
+
+I was inspired by all these different designs for living hinges, and how the bend radisu can be changed based on the design, [highlighted in this youtube video](https://www.youtube.com/watch?v=QbwD_NvvCwY). 
 
 #### Methods
 
